@@ -1,4 +1,4 @@
-# MDA-BN-Model
+# DMDF-Net
 Our proposed DMDF-Net
 
 
